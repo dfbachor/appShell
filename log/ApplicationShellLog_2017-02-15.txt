@@ -1,0 +1,28 @@
+2017-02-15 01:21:17pm -- inside signup.php after insert
+2017-02-15 01:22:11pm -- inside signup.php after insert
+2017-02-15 01:22:55pm -- inside signup.php after insert
+2017-02-15 01:46:38pm -- inside signup.php after insert
+2017-02-15 01:48:43pm -- inside signup.php after insert
+2017-02-15 02:04:02pm -- inside signup.php after insert
+2017-02-15 02:32:55pm -- signup.php : Failed to run query: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'hashPassword' cannot be null
+2017-02-15 02:34:21pm -- signup.php : Failed to run query: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'hashPassword' cannot be null
+2017-02-15 02:42:34pm -- signup.php : Failed to run query: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2017-02-15 02:44:58pm -- updateAccount.php : Failed to run query: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2017-02-15 02:46:35pm -- inside updateAccount.php after insert
+2017-02-15 02:46:49pm -- inside updateAccount.php after insert
+2017-02-15 02:46:59pm -- inside updateAccount.php after insert
+2017-02-15 02:47:18pm -- inside updateAccount.php after insert
+2017-02-15 02:48:44pm -- inside updateAccount.php after insert
+2017-02-15 02:48:53pm -- inside updateAccount.php after insert
+2017-02-15 02:50:06pm -- inside updateAccount.php after insert
+2017-02-15 02:50:26pm -- inside updateAccount.php after insert
+2017-02-15 02:52:03pm -- inside updateAccount.php after insert
+2017-02-15 02:52:14pm -- inside updateAccount.php after insert
+2017-02-15 02:52:54pm -- inside updateAccount.php after insert
+2017-02-15 02:54:37pm -- inside updateAccount.php after insert
+2017-02-15 02:54:50pm -- inside updateAccount.php after insert
+2017-02-15 02:55:05pm -- inside updateAccount.php after insert
+2017-02-15 04:05:41pm -- inside updateAccount.php after insert
+2017-02-15 04:54:39pm -- login.php : Failed to run query for rememberme token: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2017-02-15 04:55:15pm -- login.php : Failed to run query for rememberme token: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2017-02-15 04:56:19pm -- login.php : Failed to run query for rememberme token: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens

@@ -1,0 +1,19 @@
+
+
+user logged in with remember me
+
+login.php
+if remember me is checked then 
+	create a random session number 
+	store the random session number with the username and password in the session table
+	store the random session number as a cookie
+else remove any cookie with session number
+	
+	
+when the application loads
+	check for a session cookie for this site
+	if exists, send the session number to the database to get the username and pword
+	pre-populate the user name and password
+	check the remember me check box
+	
+	

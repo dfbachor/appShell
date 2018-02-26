@@ -1,0 +1,1 @@
+2017-02-20 01:29:04pm -- Config.php : Failed to connect to the database: SQLSTATE[HY000] [1045] Access denied for user 'dbachor'@'localhost' (using password: YES)

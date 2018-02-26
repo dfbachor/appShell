@@ -1,0 +1,1 @@
+2017-02-19 09:44:24pm -- signup.php : Failed to run query: SQLSTATE[HY000]: General error: 1364 Field 'email' doesn't have a default value

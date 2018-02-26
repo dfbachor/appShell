@@ -1,0 +1,6 @@
+2017-02-24 03:57:15pm -- Config.php : Failed to connect to the database: SQLSTATE[HY000] [2002] No such file or directory
+2017-02-24 03:57:57pm -- Config.php : Failed to connect to the database: SQLSTATE[HY000] [2002] No such file or directory
+2017-02-24 03:58:16pm -- Config.php : Failed to connect to the database: SQLSTATE[HY000] [2002] No such file or directory
+2017-02-24 03:58:50pm -- Config.php : Failed to connect to the database: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+2017-02-24 03:59:31pm -- Config.php : Failed to connect to the database: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)
+2017-02-24 03:59:49pm -- Config.php : Failed to connect to the database: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO)

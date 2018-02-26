@@ -1,0 +1,8 @@
+2017-02-08 05:03:00pm -- test
+2017-02-08 05:07:02pm -- inside signup.php
+2017-02-08 05:07:51pm -- inside signup.php after dupe check
+2017-02-08 05:08:26pm -- inside signup.php after insert
+2017-02-08 05:09:04pm -- inside signup.php after insert
+2017-02-08 05:09:22pm -- inside signup.php after insert
+2017-02-08 07:01:29pm -- inside signup.php after insert
+2017-02-08 07:04:21pm -- inside signup.php after insert

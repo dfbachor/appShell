@@ -1,0 +1,2 @@
+2017-02-23 03:13:58pm -- updateAccount.php : Failed to run change password query: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens
+2017-02-23 03:14:27pm -- updateAccount.php : Failed to run change password query: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens

@@ -1,0 +1,24 @@
+<section id="resetPW" style="display: none">
+	<div class="container page">
+		<h1>Reset Password</h1>
+		
+		<form role="form" data-toggle="validator" id="resetPWForm">
+		    <div class="form-group">
+		      <input type="hidden" class="form-control" id="resetPWToken">
+		      <div class="help-block with-errors"></div>
+		    </div>
+		    <div class="form-group">
+		      <label for="resetPWPassword">Password:</label>
+		      <input type="password" class="form-control" id="resetPWPassword" placeholder="Enter password" required>
+		      <div class="help-block with-errors"></div>
+		    </div>
+		    <div class="form-group">
+		      <label for="resetPWConfirmPassword">Confirm Password:</label>
+		      <input type="password" data-match= "#resetPWPassword" data-match-error="Passwords must match" class="form-control" id="resetPWConfirmPassword" placeholder="Enter password" required>
+		      <div class="help-block with-errors"></div>
+		    </div>
+		    <button type="button" id="resetPWButton" class="btn btn-default">Reset Password</button>
+		</form>
+		
+	</div>
+</section>

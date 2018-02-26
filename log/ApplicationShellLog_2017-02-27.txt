@@ -1,0 +1,5 @@
+2017-02-27 09:22:50am -- Config.php : Failed to connect to the database: SQLSTATE[HY000] [1045] Access denied for user 'dbachor'@'localhost' (using password: YES)
+2017-02-27 09:22:54am -- Config.php : Failed to connect to the database: SQLSTATE[HY000] [1045] Access denied for user 'dbachor'@'localhost' (using password: YES)
+2017-02-27 09:23:08am -- Config.php : Failed to connect to the database: SQLSTATE[HY000] [1045] Access denied for user 'dbachor'@'localhost' (using password: YES)
+2017-02-27 09:23:18am -- Config.php : Failed to connect to the database: SQLSTATE[HY000] [1045] Access denied for user 'dbachor'@'localhost' (using password: YES)
+2017-02-27 09:23:49am -- forgotPassword.php : Failed to run query for reset token: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'applicationshell.resettoken' doesn't exist
